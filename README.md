@@ -154,7 +154,7 @@ Como nossa Máquina está condigurada em Modo Bridge, podemos altera-la clicando
 
 ![vm16](https://user-images.githubusercontent.com/78823528/189509734-0dad697b-a145-47b7-be25-475b63f43046.png)
 
-#### 5- Root Password
+#### 6- Root Password
 
 Nesta opção definimos a senha para o administrador do Sistema Operacional e depois basta clicar na opção "Begin Installation", para concluir a instalação.
 
